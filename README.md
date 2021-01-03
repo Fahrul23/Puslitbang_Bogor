@@ -1,6 +1,6 @@
 # Puslitbang_Bogor
 
-![puslitbang](https://user-images.githubusercontent.com/53459506/103471842-e8802c00-4db7-11eb-8ac9-6aff84cc10ef.png)
+<img src="https://user-images.githubusercontent.com/53459506/103471842-e8802c00-4db7-11eb-8ac9-6aff84cc10ef.png"></img>
 
 Website of Bogor Forest Research and Development Center
 
