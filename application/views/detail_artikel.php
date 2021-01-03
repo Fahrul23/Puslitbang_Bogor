@@ -11,7 +11,7 @@
     </div>
 
     <!-- Breadcumb area start  -->
-    <section class="breadcumb-area breadcrumb-bg" style="background-image: url('http://localhost/kehutanan/assets/img/anggrek.jpg');">
+    <section class="breadcumb-area breadcrumb-bg" style="background-image: url('http://localhost/Puslitbang_Bogor/assets/img/anggrek.jpg');">
         <div class="container">
             <div class="row ">
                 <div class="col-lg-12">
